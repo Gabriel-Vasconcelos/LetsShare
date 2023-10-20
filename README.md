@@ -18,7 +18,10 @@ Você deve fazer um aplicativo que facilite a vida de quem vai dividir a conta n
 5. (2 pontos) - O usuário não precisa clicar para calcular, ele já faz automaticamente após o preenchimento dos campos de valor e número de pessoas :white_check_mark:
 
 ## :iphone: Demonstração do Aplicativo
-https://github.com/Gabriel-Vasconcelos/AlcoolOuGasolina/assets/62850565/b544af6c-9d4f-439c-9d40-a4648c2f7914
+
+
+https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/46e58d43-5036-45a9-9063-5fbab6898db0 
 
 ### :camera: Prints
-
+<img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/d6b6ff98-09b1-450e-8dd1-fd882a4ed45a" alt="" width="auto" height="660">
+<img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/292671fe-2090-4322-8911-1c900c439bc3" alt="" width="auto" height="660">
