@@ -20,7 +20,9 @@ https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/46e58d43-5036-4
 
 ### :camera: Prints
 
-<img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/b927a3f0-3112-4f80-816f-76c5296bd98c" alt="" width="auto" height="660">
-<img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/5c474040-052d-4782-9492-387c11742daa" alt="" width="auto" height="660">
-<img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/3531dd22-6b5a-4680-bce3-f1f1c613395e" alt="" width="auto" height="660">
+<img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/b927a3f0-3112-4f80-816f-76c5296bd98c" alt="" width="auto" height="735">
+<img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/5c474040-052d-4782-9492-387c11742daa" alt="" width="auto" height="735">
+<img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/3531dd22-6b5a-4680-bce3-f1f1c613395e" alt="" width="auto" height="735">
+
+![image](https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/e3d7aa56-2dd4-42eb-ad62-db893f8a73e3)
 
