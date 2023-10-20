@@ -26,3 +26,6 @@ https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/46e58d43-5036-4
 
 ![image](https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/e3d7aa56-2dd4-42eb-ad62-db893f8a73e3)
 
+<img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/e6833394-6bc1-4f2c-abf8-01f907179001" alt="" width="auto" height="1110">
+<img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/44fb44b1-046d-47a3-ba2e-f68984a255f1" alt="" width="auto" height="1110">
+
