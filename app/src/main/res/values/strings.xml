@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Let\'s Share</string>
+    <string name="image_description">uma bomba de gasolina ilustrando o app</string>
+    <string name="title">Gasolina ou Álcool?</string>
+    <string name="gasoline_placeholder">Preço da Gasolina</string>
+    <string name="alcohol_placeholder">Preço do Álcool</string>
+    <string name="button_name">Calcular</string>
+    <string name="choice_presentation">A Melhor Escolha é: </string>
+    <string name="gasoline_name">Gasolina</string>
+    <string name="alcohol_name">Álcool</string>
 </resources>
