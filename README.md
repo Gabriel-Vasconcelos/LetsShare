@@ -23,6 +23,10 @@ Mdifique as aplicações Vamos Rachar! e Álcool ou Gasolina para que elementos 
 ## :iphone: Demonstração do Aplicativo
 https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/46e58d43-5036-45a9-9063-5fbab6898db0 
 
+https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/330084dd-21d6-450c-b723-ed709c2c1e60
+
+
+
 ### :camera: Prints
 
 <img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/b927a3f0-3112-4f80-816f-76c5296bd98c" alt="" width="auto" height="735">
