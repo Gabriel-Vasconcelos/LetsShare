@@ -7,7 +7,7 @@ A tarefa envolve o desenvolvimento de um aplicativo Android que auxilia na divis
 
 <img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/eec6c39d-f85b-4f30-abc3-8d1bc2251c6e" alt="Pngtree—financial economy character clip art" width="auto" height="800">
 
-## :notebook: Atividade para nota - AT02 - Vamos Rachar
+## :notebook: Atividade para nota - - AT03 - Apps Adaptativo
 
 Mdifique as aplicações Vamos Rachar! e Álcool ou Gasolina para que elementos da sua interface se adaptem de acordo com os seguintes qualificadores
 
