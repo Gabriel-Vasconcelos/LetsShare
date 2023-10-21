@@ -10,7 +10,7 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
-        android:layout_height="126dp"
+        android:layout_height="426dp"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="16dp"
         android:contentDescription="@string/image_description"
@@ -32,7 +32,8 @@
         app:layout_constraintStart_toEndOf="@+id/btnShare"
         app:layout_constraintTop_toBottomOf="@+id/tvResult"
         app:layout_constraintVertical_bias="0.283"
-        style="@style/BUTTONCOLOR" />
+        style="@style/BUTTONCOLOR"
+        android:textSize="34dp"/>
 
     <Button
         android:id="@+id/btnShare"
@@ -45,14 +46,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvResult"
         app:layout_constraintVertical_bias="0.283"
-        style="@style/BUTTONCOLOR" />
+        style="@style/BUTTONCOLOR"
+        android:textSize="34dp"/>
 
     <TextView
         android:id="@+id/tvResult"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/coin"
-        android:textSize="26dp"
+        android:textSize="56dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -63,7 +65,7 @@
 
     <EditText
         android:id="@+id/etPeoples"
-        android:layout_width="wrap_content"
+        android:layout_width="500dp"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="numberDecimal"
@@ -73,11 +75,13 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/etMoney"
         app:layout_constraintVertical_bias="0.01999998"
-        style="@style/TEXTCOLORINPUT"/>
+        style="@style/TEXTCOLORINPUT"
+        android:textSize="34dp"
+        />
 
     <EditText
         android:id="@+id/etMoney"
-        android:layout_width="wrap_content"
+        android:layout_width="500dp"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="numberDecimal"
@@ -87,7 +91,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         app:layout_constraintVertical_bias="0.06999999"
-        style="@style/TEXTCOLORINPUT" />
+        style="@style/TEXTCOLORINPUT"
+        android:textSize="34dp"/>
 
     <TextView
         android:id="@+id/textView"
@@ -95,7 +100,7 @@
         android:layout_height="wrap_content"
         android:text="@string/title"
         android:textFontWeight="700"
-        android:textSize="24sp"
+        android:textSize="54sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

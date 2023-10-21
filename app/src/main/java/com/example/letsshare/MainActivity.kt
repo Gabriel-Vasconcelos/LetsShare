@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             if (moneyStr.isNotEmpty() && peoplesStr.isNotEmpty()) {
                 val sendIntent: Intent = Intent().apply {
                     action = Intent.ACTION_SEND
-                    putExtra(Intent.EXTRA_TEXT, "Ficou ${textViewResult.text} para você :3")
+                    putExtra(Intent.EXTRA_TEXT, getString(R.string.result_share, textViewResult.text))
                     type = "text/plain"
                 }
                 val shareIntent = Intent.createChooser(sendIntent, null)
@@ -62,7 +62,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val peoplesStr = inputPeoples.text.toString()
 
             if (peoplesStr.isNotEmpty() && moneyStr.isNotEmpty()) {
-                speakResult("Ficou ${textViewResult.text} para cada um... Me pague logo!")
+                speakResult(getString(R.string.result_listen, textViewResult.text))
             }
         })
     }
@@ -97,10 +97,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             if (moneyStr.isNotEmpty() && peoplesStr.isNotEmpty()) {
                 val money = moneyStr.toDouble()
                 val peoples = peoplesStr.toDouble()
-                val resultText = df.format(money / peoples)
-
+                val resultValue = money / peoples
+                val resultText = getString(R.string.coin) + df.format(resultValue)
                 Log.d("Text", "money: $money, qtdPeople: $peoples")
-                textViewResult.text = "R$$resultText"
+                textViewResult.text = resultText
             }
 
         }

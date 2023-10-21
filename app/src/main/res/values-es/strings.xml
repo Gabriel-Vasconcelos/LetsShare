@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Compartamos</string>
+    <string name="image_description">dinero con alas y un $ en el medio</string>
+    <string name="title">Vamos a Dividir</string>
+    <string name="peoples_placeholder">Total de la Cuenta</string>
+    <string name="money_placeholder">Cantidad de Personas</string>
+    <string name="button_name_share">Compartir</string>
+    <string name="button_name_listen">Escuchar</string>
+    <string name="coin">€</string>
+    <string name="result_listen">Son %s para cada uno... ¡Págame ya!</string>
+    <string name="result_share">Son %s para ti :3</string>
+</resources>

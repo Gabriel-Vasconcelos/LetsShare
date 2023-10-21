@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Let\'s Share</string>
+    <string name="image_description">money with wings and a $ in the middle</string>
+    <string name="title">Let\'s Split</string>
+    <string name="peoples_placeholder">Total Bill</string>
+    <string name="money_placeholder">Number of People</string>
+    <string name="button_name_share">Share</string>
+    <string name="button_name_listen">Listen</string>
+    <string name="coin">$</string>
+    <string name="result_listen">It\'s %s for each one... Pay me now!</string>
+    <string name="result_share">It\'s %s for you :3</string>
+</resources>
