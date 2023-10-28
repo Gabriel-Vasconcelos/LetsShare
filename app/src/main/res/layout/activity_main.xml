@@ -61,6 +61,7 @@
         android:id="@+id/etPeoples"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="20sp"
         android:ems="10"
         android:inputType="numberDecimal"
         android:hint="Peoples"
@@ -68,12 +69,14 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/etMoney"
-        app:layout_constraintVertical_bias="0.01999998" />
+        app:layout_constraintVertical_bias="0.01999998"
+        android:backgroundTint="#49454F"/>
 
     <EditText
         android:id="@+id/etMoney"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="20sp"
         android:ems="10"
         android:inputType="numberDecimal"
         android:hint="Money"
@@ -81,7 +84,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:layout_constraintVertical_bias="0.06999999" />
+        app:layout_constraintVertical_bias="0.06999999"
+        android:backgroundTint="#49454F"/>
 
     <TextView
         android:id="@+id/textView"
