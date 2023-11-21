@@ -41,13 +41,20 @@ A altura deste item é 46dp. Considere definir a altura desta área de toque com
 *com.example.letsshare:id/etPeoples*<br>
 A taxa de contraste do texto no item é 2,35. Ela é determinada com base na estimativa da cor do primeiro plano #A9A6A9 e da cor de fundo #FFFBFE. Aumente esse valor para 3,00 ou mais.
 
-### Prints do Scanner de Acessibilidade
+### :camera: Prints do Scanner de Acessibilidade
 
 <div>
   <img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/8ab63f73-df11-4380-8230-caccd7cd70fd" width="500" height="auto" />
   <img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/89da3be7-49e1-4723-917e-a850eb633ed8" width="500" height="auto" />
 </div>
 
+### Antes 
+
+<img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/621fb659-e145-4e9f-8ce9-290551a2ffd9" width="500" height="auto" />
+
+### Depois 
+
+<img src="https://github.com/Gabriel-Vasconcelos/LetsShare/assets/62850565/e01f3f3e-3ff4-453a-81d2-b85f183ec68d" width="500" height="auto" />
 
 ## :iphone: Demonstração do Aplicativo
 
